@@ -1691,3 +1691,11 @@
 .fa-plus-square-o:before {
 	content: "\f196"
 }
+
+.fa-car:before {
+	content: url(images/car.png)
+}
+
+.fa-people:before {
+	content: url(images/people.jpg)
+}
