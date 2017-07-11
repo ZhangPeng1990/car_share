@@ -9,6 +9,7 @@
 /* Basic */
 
 	body, input, select, textarea {
+		color: white;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
@@ -17,7 +18,6 @@
 	}
 
 	body {
-		color: white;
 		background: white;
 		overflow: hidden;
 	}

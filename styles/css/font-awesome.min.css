@@ -1693,9 +1693,9 @@
 }
 
 .fa-car:before {
-	content: url(images/car.png)
+	content: "找车"
 }
 
 .fa-people:before {
-	content: url(images/people.jpg)
+	content: "找人"
 }

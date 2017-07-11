@@ -1693,9 +1693,9 @@
 }
 
 .fa-car:before {
-	content: url(images/car.jpg)
+	content: "’“»À"
 }
 
 .fa-people:before {
-	content: url(images/people.jpg)
+	content: "’“≥µ"
 }
